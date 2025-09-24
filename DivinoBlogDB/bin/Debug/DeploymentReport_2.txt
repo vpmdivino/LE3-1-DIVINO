@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Posts]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[Posts] (Table)
+     Create
+       [dbo].[spUsers_Authenticate] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_Posts_Users] (Foreign Key)
+     Create
+       [dbo].[FK_Posts_Users] (Foreign Key)

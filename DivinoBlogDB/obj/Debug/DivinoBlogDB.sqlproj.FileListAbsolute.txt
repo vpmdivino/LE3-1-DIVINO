@@ -1,0 +1,10 @@
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\bin\Debug\DivinoBlogDB.dacpac
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\bin\Debug\DivinoBlogDB.dll
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\bin\Debug\DivinoBlogDB.pdb
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\DivinoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\DivinoBlogDB.dll
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\DivinoBlogDB.pdb
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\Model.xml
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\refactor.xml
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\postdeploy.sql
+C:\Users\MY PC\source\repos\DivinoLE2\DivinoBlogDB\obj\Debug\predeploy.sql
